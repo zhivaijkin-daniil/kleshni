@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: darkgray;
+}
+.h1-n {
+    margin-left: 45%;
+    color: red;
+}
+.h1-y {
+    margin-left: 45%;
+    color: green;
+}
+.send {
+    text-align: -webkit-center;
+    margin-top: 10%;
+}
+.form-uniq {
+    margin-left: 45%;
+    margin-top: 10%;
+}
+a.boton1{
+    background:#eee;
+    color:#088;
+    text-decoration:none;
+    display:block;
+    width:90px;
+    text-align:center;
+    padding:10px 10px;
+    transition:all 0.3s;
+    margin-left: 30px;
+}
+a.boton1:hover{
+    box-shadow:0px -5px 0 #088 inset;
+}
+button.boton1{
+    background:#eee;
+    color:#088;
+    text-decoration:none;
+    display:block;
+    width:90px;
+    text-align:center;
+    padding:10px 10px;
+    transition:all 0.3s;
+    margin-left: 40px;
+}
+button.boton1:hover{
+    box-shadow:0px -5px 0 #088 inset;
+}
